@@ -1,5 +1,5 @@
 ---
-title: "[Journal Article]: Longitudinal study of neonatal brain tissue volumes in preterm infants and their ability to predict neurodevelopmental outcome"
+title: "Journal Article: Longitudinal study of neonatal brain tissue volumes in preterm infants and their ability to predict neurodevelopmental outcome"
 collection: publications
 permalink: /publication/2018-06-14-longitudinal
 date: 2018-06-14
