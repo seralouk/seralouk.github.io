@@ -1,5 +1,5 @@
 ---
-title: "Collection of Conference Articles"
+title: "Collection of Conference Abstracts"
 collection: publications
 permalink: /publication/2021-06-30-conf_presentations
 date: 2021-06-30
