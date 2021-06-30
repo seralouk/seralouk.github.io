@@ -6,7 +6,11 @@ date: 2021-06-30
 venue: 'International Society for Magnetic Resonance in Medicine (ISMRM)'
 ---
 
+See the complete list [here](https://seralouk.github.io/publication/2021-06-30-conf_presentations).
+
 Conference Abstracts Presentations
+=====
+
 - Loukas, S., et al., (2020). "Resting State Functional Connectivity and Angiogenesis-related
 Gene Co-Expression Networks in early brain development", Proc. Intl. Soc. Mag. Reson.
 Med. 28, ISMRM, Virtual conference.
