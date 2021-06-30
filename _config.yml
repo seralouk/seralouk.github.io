@@ -11,9 +11,9 @@ title                    : "Serafeim LOUKAS"
 title_separator          : "-"
 name                     : &name "Serafeim Loukas"
 description              : &description "Postdoctoral researcher at University of Geneva 🧠"
-url                      : https://seralouk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://seralouk.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "seralouk.github.io"
+repository               : "seralouk/seralouk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jANEg1MAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "seralouk@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Serafeim-Loukas"
   uri              :
   bitbucket        :
