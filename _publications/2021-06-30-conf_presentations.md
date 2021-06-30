@@ -6,7 +6,7 @@ date: 2021-06-30
 venue: 'International Society for Magnetic Resonance in Medicine (ISMRM)'
 ---
 
-See the complete list [here](https://seralouk.github.io/publication/2021-06-30-conf_presentations).
+See the complete list [here](https://seralouk.github.io/publications/2021-06-30-conf_presentations).
 
 ## Conference Abstracts Presentations
 
