@@ -4,7 +4,6 @@ collection: teaching
 type: "Teaching Master classes at EPFL"
 permalink: /teaching/teaching_experience
 venue: "Swiss Federal Institute of Technology Lausanne, Department of Electrical Engineering"
-#date: 
 location: "Lausanne, Switzerland"
 ---
 
