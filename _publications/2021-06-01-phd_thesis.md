@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis, Methods for functional connectivity and morphometry in neonatal neuroimaging to study neurodevelopment."
+title: "PhD Thesis:: Methods for functional connectivity and morphometry in neonatal neuroimaging to study neurodevelopment."
 collection: publications
 permalink: /publication/2021-06-01-phd_thesis
 date: 2021-06-01
