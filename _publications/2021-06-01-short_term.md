@@ -1,5 +1,5 @@
 ---
-title: "[Journal Article]\: Musical memories in newborns: A resting-state functional connectivity study"
+title: "[Journal Article] Musical memories in newborns: A resting-state functional connectivity study"
 collection: publications
 permalink: /publication/2021-06-01-short_term
 date: 2021-06-01
