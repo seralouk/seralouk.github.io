@@ -9,4 +9,4 @@ citation: 'Loukas, Serafeim. Effective connectivity analysis of brain networks i
 
 Recommended citation: Loukas, Serafeim. Effective connectivity analysis of brain networks in preterm infants. Master Thesis, 2017.
 
-<embed src="{{ site.baseurl }}/files/master_thesis.pdf" width="500" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/master_thesis.pdf" width="500" height="600" type='application/pdf'>
