@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+I am a Postdoctoral researcher at University of Geneva & University Hospital of Bern since 1st of June 2021. I hold a PhD in Electrical Engineering from the Swiss Federal Institute of Technology Lausanne (EPFL), a MSc in Neuroscience from the University of Geneva, and a Diploma, equivalent to M.Eng., in Electrical & Computer Engineering from the Natinal Technical University of Athens.
 
 I am an engineer experienced with gathering, cleaning and organizing data for use by technical and non-technical personnel. I have a deep understanding of machine learning, statistical learning, algebraic and other analytical techniques. I am highly organized, motivated and diligent with significant background in electrical & computer engineering, neuroscience and data science. I am proficient in Python & MATLAB.
 
