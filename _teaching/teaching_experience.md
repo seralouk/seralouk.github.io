@@ -8,6 +8,7 @@ date: 2017-06-01
 location: "Lausanne, Switzerland"
 ---
 
+Sera
 
 I had been teaching master courses at the Swiss Federal Institute of Technology Lausanne (EPFL) for 4 years in the context of my PhD studies.
 
