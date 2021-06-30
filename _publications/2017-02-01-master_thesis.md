@@ -1,5 +1,5 @@
 ---
-title: "Master Thesis:: Effective connectivity analysis of brain networks in preterm infants"
+title: "Master Thesis : Effective connectivity analysis of brain networks in preterm infants"
 collection: publications
 permalink: /publication/2017-02-01-master_thesis
 date: 2017-02-01
