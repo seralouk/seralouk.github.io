@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Serafeim Loukas, PhD"
+title                    : "Serafeim LOUKAS"
 title_separator          : "-"
 name                     : &name "Serafeim Loukas"
 description              : &description "Postdoctoral researcher at University of Geneva"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jANEg1MAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : "Serafeim-Loukas"
+  researchgate     : "https://www.researchgate.net/profile/Serafeim-Loukas"
   uri              :
   bitbucket        :
   codepen          :
