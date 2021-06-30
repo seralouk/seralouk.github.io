@@ -9,8 +9,8 @@ location: "Lausanne, Switzerland"
 ---
 
 
-
 I had been teaching master courses at the Swiss Federal Institute of Technology Lausanne (EPFL) for 4 years in the context of my PhD studies.
 
-- Image Processing I (MICRO-511) & Image Processing II (MICRO-512)
+- Image Processing I (MICRO-511)
+- Image Processing II (MICRO-512)
 - Signal processing for functional brain imaging (MICRO-513)
