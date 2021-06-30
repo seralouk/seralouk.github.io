@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "Short introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Short introduction
-======
 
 I am an engineer experienced with gathering, cleaning and organizing data for use by technical and non-technical personnel. I have a deep understanding of machine learning, statistical learning, algebraic and other analytical techniques. I am highly organized, motivated and diligent with significant background in electrical & computer engineering, neuroscience and data science. I am proficient in Python & MATLAB.
 
