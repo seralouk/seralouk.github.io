@@ -10,7 +10,7 @@ redirect_from:
 
 <meta name="google-site-verification" content="-KXtUwKiZPbH6QKiAJTOFGx7X1oFTnGS4dZLv7eq3Xg" />
 
-Currently, I am a Postdoctoral researcher at the University of Geneva & University Hospital of Bern since the 1st of June & July 2021, respectively. I hold a Ph.D. in Electrical Engineering from the Swiss Federal Institute of Technology Lausanne (EPFL), an M.Sc. in Neuroscience from the University of Geneva, and a Diploma, equivalent to M.Eng., in Electrical & Computer Engineering from the National Technical University of Athens.
+Currently, I am a Postdoctoral researcher at the University of Geneva & University Hospital of Bern since the 1st of June & July 2021, respectively. I hold a Ph.D. in Electrical Engineering from the Swiss Federal Institute of Technology Lausanne (EPFL), an M.Sc. in Neuroscience from the University of Geneva, and a Diploma in Electrical & Computer Engineering, equivalent to an M.Eng., from the National Technical University of Athens.
 
 I am particularly motivated and passionate about brain 🧠 research (biomedical engineering & computational neuroscience) and more generally about data science. I have been awarded the Summa Cum Laude Merit Award & Best Poster Award for my research.
 
