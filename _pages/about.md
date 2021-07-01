@@ -18,10 +18,8 @@ I am experienced with gathering, cleaning, and organizing data for use by techni
 Some of my main skills include:
 
 
-Some of my main skills include:
-- fMRI analysis, Connectomics, Data Preparation, Analysis & Visualization, Machine Learning, Statistics & Probability, Network science, and Graph theory.
+- Main skills: fMRI analysis, Connectomics, Data Preparation, Analysis & Visualization, Machine Learning, Statistics & Probability, Network science, and Graph theory.
 
-My interpersonal skills include:
-- Teamwork, Critical thinking, Creativity, Communication & Scientific Report Writing as well as Supervision.
+- Interpersonal skills: Teamwork, Critical thinking, Creativity, Communication & Scientific Report Writing as well as Supervision.
 
 
