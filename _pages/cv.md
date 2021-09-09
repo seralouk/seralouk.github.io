@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae (CV) Academic & Industry-oriented"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-### Academic version
-<embed src="{{ site.baseurl }}/files/CV_Loukas.pdf" width="500" height="500" type='application/pdf'>
+[whatever]:### Academic version
+[whatever]:<embed src="{{ site.baseurl }}/files/CV_Loukas.pdf" width="500" height="500" type='application/pdf'>
 
 ### Industry-oriented version
 <embed src="{{ site.baseurl }}/files/CV_industry.pdf" width="500" height="500" type='application/pdf'>
