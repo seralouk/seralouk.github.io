@@ -19,7 +19,7 @@ I am experienced with gathering, cleaning, and organizing data for use by techni
 
 - Main skills: fMRI analysis, Connectomics, Data Preparation, Analysis & Visualization, Machine Learning, Statistics & Probability, Network science, and Graph theory.
 
-- Interpersonal skills: Teamwork, Critical thinking, Creativity, Communication & Scientific Report Writing as well as Supervision.
+- Interpersonal skills: Teamwork, Critical thinking, Creativity, Communication & Scientific Report Writing, and Supervision.
 
 MIPLab/EPFL webpage: <https://miplab.epfl.ch/index.php/people/loukas>
 
