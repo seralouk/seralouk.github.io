@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Serafeim LOUKAS"
 title_separator          : "-"
 name                     : &name "Serafeim Loukas"
-description              : &description "Postdoctoral researcher at University of Geneva 🧠"
+description              : &description "Biomedical Engineer / Postdoctoral researcher at University of Geneva & University Hospital of Bern 🧠"
 #url                      : https://seralouk.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 url                      : https://seralouk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Serafeim Loukas, Ph.D."
   avatar           : "profile3.png"
-  bio              : "Postdoctoral researcher at University of Geneva & University Hospital of Bern 🧠. Ph.D. in Electrical Engineering (EFPL), M.Sc. in Neuroscience (UNIGE), and Diploma in Electrical & Computer Engineering (NTUA, 300 ECTS)."
+  bio              : "Biomedical Engineer / Postdoctoral researcher at University of Geneva & University Hospital of Bern 🧠. Ph.D. in Electrical Engineering (EFPL), M.Sc. in Neuroscience (UNIGE), and Diploma in Electrical & Computer Engineering (NTUA-300ECTS)."
   location         : "Switzerland"
-  employer         :
+  employer         : "University of Geneva & University Hospital of Bern"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jANEg1MAAAAJ&hl=en&oi=ao"
   email            : "seralouk@gmail.com"
