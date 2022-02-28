@@ -21,8 +21,8 @@ I am experienced with gathering, cleaning, and organizing data for use by techni
 
 - Interpersonal skills: Teamwork, Critical thinking, Creativity, Communication & Scientific Report Writing, and Supervision.
 
-MIPLab/EPFL webpage: <https://miplab.epfl.ch/index.php/people/loukas>
+[MIPLab (EPFL)](https://miplab.epfl.ch/index.php/people/loukas) webpage
 
-Unibe/Insel webpage: <https://www.neuroscience.unibe.ch/research/research_groups/functional_neurological_disorder_fnd_research_group/group_members/personen/phd_loukas_serafeim/>
+[UNIBE / Insel](https://www.neuroscience.unibe.ch/research/research_groups/functional_neurological_disorder_fnd_research_group/group_members/personen/phd_loukas_serafeim/) webpage
 
-[here](https://www.neuroscience.unibe.ch/research/research_groups/functional_neurological_disorder_fnd_research_group/group_members/personen/phd_loukas_serafeim/)
+[UNIGE](https://www.campusbiotech.ch/en/node/468) website
