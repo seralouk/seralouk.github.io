@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae (CV) (Academic version)"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,5 +12,5 @@ redirect_from:
 [//]: # ### Academic version
 [//]: # <embed src="{{ site.baseurl }}/files/CV_academic.pdf" width="500" height="500" type='application/pdf'>
 
-### Extended/academic version
+### Academic version
 <embed src="{{ site.baseurl }}/files/CV_academic.pdf" width="500" height="500" type='application/pdf'>
