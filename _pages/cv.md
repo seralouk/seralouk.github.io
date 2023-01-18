@@ -12,5 +12,5 @@ redirect_from:
 [//]: # ### Non-extended version
 [//]: # <embed src="{{ site.baseurl }}/files/CV_industry.pdf" width="500" height="500" type='application/pdf'>
 
-### Academic version
+### Non-extended version
 <embed src="{{ site.baseurl }}/files/CV_industry.pdf" width="500" height="500" type='application/pdf'>
