@@ -40,5 +40,5 @@ I also offer **bespoke consulting services** covering a wide spectrum of your da
 
 - [UNIBE / Insel](https://www.neuroscience.unibe.ch/research/research_groups/functional_neurological_disorder_fnd_research_group/) webpage
 
-- [UNIGE](https://www.campusbiotech.ch/en/node/468) website
+- [UNIGE](https://www.unige.ch/medecine/petri/fr/groupes-de-recherche/184huppi/membres-du-groupe/serafeim-loukas/) website
 
