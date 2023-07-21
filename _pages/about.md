@@ -28,7 +28,7 @@ I am an engineer experienced with gathering, cleaning, and organizing data for u
 
 ## Consulting Services
 
-I also offer **bespoke consulting services** covering a wide spectrum of your data needs. From building machine learning models to strategic data analytics planning, our extensive experience enables us to provide practical and effective solutions. See my [Patreon](https://www.patreon.com/TheDataScienceHub/) website or my [Linkedin Service] page (https://www.linkedin.com/services/page/4550aa31b590638233).
+I also offer **bespoke consulting services** covering a wide spectrum of your data needs. From building machine learning models to strategic data analytics planning, our extensive experience enables us to provide practical and effective solutions. See my [Patreon](https://www.patreon.com/TheDataScienceHub/) website and/or my [Linkedin Service](https://www.linkedin.com/services/page/4550aa31b590638233) page.
 
 ### Websites:
 
