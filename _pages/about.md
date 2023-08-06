@@ -21,6 +21,8 @@ I am particularly motivated and passionate about data science, machine learning,
 
 I am an engineer experienced with gathering, cleaning, and organizing data for use by technical and non-technical personnel. I have a deep understanding of machine learning, statistical learning, and other analytical techniques. I am highly organized, motivated and diligent with significant background in electrical & computer engineering, and data science. I am proficient in Python & MATLAB. I also use R for statistical/hypothesis testing. I am motivated and passionate about data analysis (engineering & computational modeling) and more generally data science.
 
+I rank [21 all-time respondent for Machine Learning on Stack Overflow](https://stackoverflow.com/tags/machine-learning/topusers).
+
 
 **Main skills**: Data Preparation, Analysis & Visualization, Machine Learning, Statistics & Probability, Signal Processing, Network science, and Graph theory.
 
