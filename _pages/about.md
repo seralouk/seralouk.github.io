@@ -11,7 +11,7 @@ redirect_from:
 <meta name="google-site-verification" content="-KXtUwKiZPbH6QKiAJTOFGx7X1oFTnGS4dZLv7eq3Xg" />
 
 
-Since March 1st, 2023 I have been working as a **Data Scientist** in the Medical Algos and Data (MAD) tema at Natural Cycles (Geneva, Switzerland).
+Since March 1st, 2023 I have been working as a **Data Scientist** in the Medical Algos and Data (MAD) team at Natural Cycles (Geneva, Switzerland).
 
 Before joining NC, I worked as a Postdoctoral researcher at the University of Geneva & University Hospital of Bern since the 1st of June & July 2021, respectively. I hold a **Ph.D.** in Electrical Engineering from the Swiss Federal Institute of Technology Lausanne (EPFL), a **M.Sc.** in Neuroscience from the University of Geneva, and a **Diploma in Electrical & Computer Engineering**, equivalent to an M.Eng., from the National Technical University of Athens.
 
