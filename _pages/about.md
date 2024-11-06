@@ -10,10 +10,10 @@ redirect_from:
 
 <meta name="google-site-verification" content="-KXtUwKiZPbH6QKiAJTOFGx7X1oFTnGS4dZLv7eq3Xg" />
 
+Since August 15th, 2024 I have been working as a **Data Scientist** at the International Air Transport Association (IATA, Geneva Office). Prior to this, 
+I worked as a Data Scientist in the Medical Algos and Data (MAD) team at Natural Cycles (Geneva, Switzerland) from March 2023 to May 2024.
 
-Since March 1st, 2023 I have been working as a **Data Scientist** in the Medical Algos and Data (MAD) team at Natural Cycles (Geneva, Switzerland).
-
-Before joining NC, I worked as a Postdoctoral researcher at the University of Geneva & University Hospital of Bern since the 1st of June & July 2021, respectively. I hold a **Ph.D.** in Electrical Engineering from the Swiss Federal Institute of Technology Lausanne (EPFL), a **M.Sc.** in Neuroscience from the University of Geneva, and a **Diploma in Electrical & Computer Engineering**, equivalent to an M.Eng., from the National Technical University of Athens.
+Before joining IATA and NC, I worked as a Researcher/Data Scientist at the University of Geneva & University Hospital of Bern since the 1st of June & July 2021, respectively. I hold a **Ph.D.** in Electrical Engineering from the Swiss Federal Institute of Technology Lausanne (EPFL), a **M.Sc.** in Neuroscience from the University of Geneva, and a **Diploma in Electrical & Computer Engineering**, equivalent to an M.Eng., from the National Technical University of Athens.
 
 ## Expertise
 
@@ -21,7 +21,7 @@ I am particularly motivated and passionate about data science, machine learning,
 
 I am an engineer experienced with gathering, cleaning, and organizing data for use by technical and non-technical personnel. I have a deep understanding of machine learning, statistical learning, and other analytical techniques. I am highly organized, motivated and diligent with significant background in electrical & computer engineering, and data science. I am proficient in Python & MATLAB. I also use R for statistical/hypothesis testing. I am motivated and passionate about data analysis (engineering & computational modeling) and more generally data science.
 
-I rank [21 all-time respondent for Machine Learning on Stack Overflow](https://stackoverflow.com/tags/machine-learning/topusers).
+I rank [12 all-time respondent for Machine Learning on Stack Overflow](https://stackoverflow.com/tags/machine-learning/topusers).
 
 
 **Main skills**: Data Preparation, Analysis & Visualization, Machine Learning, Statistics & Probability, Signal Processing, Network science, and Graph theory.
