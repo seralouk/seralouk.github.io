@@ -13,4 +13,4 @@ redirect_from:
 [//]: # <embed src="{{ site.baseurl }}/files/CV_industry.pdf" width="500" height="500" type='application/pdf'>
 
 ### Non-extended version
-<embed src="{{ site.baseurl }}/files/CV_Loukas_2023.pdf" width="500" height="500" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/CV_2025_short.pdf" width="500" height="500" type='application/pdf'>
