@@ -10,7 +10,7 @@ redirect_from:
 
 <meta name="google-site-verification" content="-KXtUwKiZPbH6QKiAJTOFGx7X1oFTnGS4dZLv7eq3Xg" />
 
-Since August 15th, 2024 I have been working as a **Data Scientist** at the **International Air Transport Association** (IATA, Geneva Office). 
+Since August 15th, 2024 I have been working as a **Senior Data Scientist** at the **International Air Transport Association** (IATA, Geneva Office). 
 
 At IATA, I am designing and implementing cross-divisional data science and machine learning solutions that drive business value across IATA’s global aviation network. I am collaborating with data architects and engineering teams to develop advanced models and algorithms that tackle complex business challenges. I am leading initiatives in data collection, transformation, and analysis, while recommending improvements to our data environments and submission standards. 
 
