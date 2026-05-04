@@ -3,20 +3,20 @@ permalink: /
 title: "Short bio"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <meta name="google-site-verification" content="-KXtUwKiZPbH6QKiAJTOFGx7X1oFTnGS4dZLv7eq3Xg" />
 
-Since August 15th, 2024 I have been working as a **Senior Data Scientist** at the **International Air Transport Association** (IATA, Geneva Office). 
+Since August 15th, 2024 I have been working as a **Principal Data Scientist** at the **International Air Transport Association** (IATA, Geneva Office).
 
-At IATA, I am designing and implementing cross-divisional data science and machine learning solutions that drive business value across IATA’s global aviation network. I am collaborating with data architects and engineering teams to develop advanced models and algorithms that tackle complex business challenges. I am leading initiatives in data collection, transformation, and analysis, while recommending improvements to our data environments and submission standards. 
+At IATA, I am designing and implementing cross-divisional data science and machine learning solutions that drive business value across IATA’s global aviation network. I am collaborating with data architects and engineering teams to develop advanced models and algorithms that tackle complex business challenges. I am leading initiatives in data collection, transformation, and analysis, while recommending improvements to our data environments and submission standards.
 
 Additionally, I serve as IATA's main representative at the European AI Office in drafting the first General-Purpose AI Code of Practice, and I contribute actively to IATA’s Artificial Intelligence Technical Board.
 
-Prior to this, I worked as a Data Scientist in the Medical Algos and Data (MAD) team at Natural Cycles (Geneva, Switzerland) from March 2023 to May 2024. 
+Prior to this, I worked as a Data Scientist in the Medical Algos and Data (MAD) team at Natural Cycles (Geneva, Switzerland) from March 2023 to May 2024.
 
 Before joining NC, I worked as a Researcher/Data Scientist at the University of Geneva & University Hospital of Bern since the 1st of June & July 2021, respectively. I hold a **Ph.D.** in Electrical Engineering from the Swiss Federal Institute of Technology Lausanne (EPFL), a **M.Sc.** in Neuroscience from the University of Geneva, and a **Diploma in Electrical & Computer Engineering**, equivalent to an M.Eng., from the National Technical University of Athens.
 
@@ -41,29 +41,29 @@ I also offer **bespoke consulting services** covering a wide spectrum of your da
 
 • Amazon SageMaker Studio for Data Scientists by AWS
 
-• Deep Learning with TensorFlow by DataCamp 
+• Deep Learning with TensorFlow by DataCamp
 
-• Deep Learning with PyTorch by DataCamp 
+• Deep Learning with PyTorch by DataCamp
 
-• Generative AI with Large Language Models by DeepLearning.ai 
+• Generative AI with Large Language Models by DeepLearning.ai
 
-• Introduction to Large Language Models by Google Cloud 
+• Introduction to Large Language Models by Google Cloud
 
-• Applied Machine Learning in Python by University of Michigan 
+• Applied Machine Learning in Python by University of Michigan
 
 • Neural Networks and Deep Learning by DeepLearning.ai
 
 • Statistical Data Visualization with Seaborn by Coursera
 
-• Exploratory Data Analysis with Python by Coursera 
+• Exploratory Data Analysis with Python by Coursera
 
-• Using Databases with Python by Coursera 
+• Using Databases with Python by Coursera
 
-• Python, ranking in the Top 10% by TestDome 
+• Python, ranking in the Top 10% by TestDome
 
-• Snowflake Fundamentals by Snowflake 
+• Snowflake Fundamentals by Snowflake
 
-• Snowflake For Data Science by Snowflake 
+• Snowflake For Data Science by Snowflake
 
 ### Selected Websites:
 
