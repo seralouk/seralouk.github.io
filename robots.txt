@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seralouk.github.io/sitemap.xml
