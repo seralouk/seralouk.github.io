@@ -97,16 +97,6 @@ body {
     pointer-events: none;
 }
 
-.particle--planet-symbol {
-    border-radius: 0;
-    background: transparent;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    line-height: 1;
-    will-change: transform, opacity;
-}
-
 @keyframes twinkle {
 
     0%,
@@ -118,17 +108,6 @@ body {
     50% {
         opacity: 0.9;
         transform: scale(1.2);
-    }
-}
-
-@keyframes planetWobble {
-    0%,
-    100% {
-        opacity: 0.55;
-    }
-
-    50% {
-        opacity: 0.95;
     }
 }
 
