@@ -233,7 +233,7 @@ h4 {
 
 .hero .headline {
     color: var(--text-secondary);
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     margin-bottom: 2rem;
 }
 
@@ -597,6 +597,6 @@ footer {
     }
 
     .hero .headline {
-        font-size: 1.2rem;
+        font-size: 1.35rem;
     }
 }
