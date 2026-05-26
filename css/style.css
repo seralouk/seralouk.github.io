@@ -125,12 +125,10 @@ body {
     0%,
     100% {
         opacity: 0.55;
-        transform: translateY(0px) rotate(0deg);
     }
 
     50% {
         opacity: 0.95;
-        transform: translateY(-4px) rotate(8deg);
     }
 }
 

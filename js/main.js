@@ -81,7 +81,7 @@ for (let i = 0; i < particleCount; i++) {
     if (isSymbolPlanet) {
         particle.style.opacity = Math.random() * 0.35 + 0.5;
         particle.style.filter = `drop-shadow(0 0 ${Math.round(size / 2)}px rgba(139, 92, 246, 0.45))`;
-        particle.style.animation = `planetWobble ${Math.random() * 8 + 12}s infinite ease-in-out`;
+        particle.style.animation = `planetWobble ${Math.random() * 8 + 12}s infinite ease-in-out, drift ${Math.random() * 18 + 18}s infinite alternate ease-in-out`;
     } else if (isPlanet) {
         // Randomize planet colors between theme accents and subtle celestial colors
         const colors = ['var(--accent-1)', 'var(--accent-2)', '#fde047', '#fca5a5'];
