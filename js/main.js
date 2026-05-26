@@ -38,30 +38,51 @@ revealElements.forEach(el => {
 const particlesContainer = document.getElementById('particles-container');
 const particleCount = 150; // Increased count for starry background
 const particles = [];
+const planetSymbols = ['🪐', '🌍', '🌕', '☄️', '🛰️'];
 
 for (let i = 0; i < particleCount; i++) {
     const particle = document.createElement('div');
     particle.classList.add('particle');
 
-    // 90% stars (small, white), 10% planets (larger, colored)
-    const isPlanet = Math.random() > 0.9;
-    // Increased planet size range to [3, 9] pixels for more variety
-    const size = isPlanet ? Math.random() * 6 + 3 : Math.random() * 1.5 + 0.5;
+    // 84% stars (small, white), 10% colored planets, 6% planet symbols
+    const randomType = Math.random();
+    const isSymbolPlanet = randomType > 0.94;
+    const isPlanet = !isSymbolPlanet && randomType > 0.84;
 
-    particle.style.width = `${size}px`;
-    particle.style.height = `${size}px`;
+    let size;
+    if (isSymbolPlanet) {
+        size = Math.random() * 12 + 16;
+        particle.classList.add('particle--planet-symbol');
+        particle.textContent = planetSymbols[Math.floor(Math.random() * planetSymbols.length)];
+        particle.style.fontSize = `${size}px`;
+        particle.style.width = `${size}px`;
+        particle.style.height = `${size}px`;
+    } else {
+        // Increased planet size range to [3, 9] pixels for more variety
+        size = isPlanet ? Math.random() * 6 + 3 : Math.random() * 1.5 + 0.5;
+        particle.style.width = `${size}px`;
+        particle.style.height = `${size}px`;
+    }
 
     const x = Math.random() * 100;
     const y = Math.random() * 100;
 
     particle.dataset.origY = y;
     // Parallax depth: Planets (larger) move faster, distant stars (smaller) move slower
-    particle.dataset.speed = isPlanet ? Math.random() * 0.6 + 0.3 : Math.random() * 0.15 + 0.05;
+    particle.dataset.speed = isSymbolPlanet
+        ? Math.random() * 0.45 + 0.2
+        : isPlanet
+            ? Math.random() * 0.6 + 0.3
+            : Math.random() * 0.15 + 0.05;
 
     particle.style.left = `${x}vw`;
     particle.style.top = `${y}vh`;
 
-    if (isPlanet) {
+    if (isSymbolPlanet) {
+        particle.style.opacity = Math.random() * 0.35 + 0.5;
+        particle.style.filter = `drop-shadow(0 0 ${Math.round(size / 2)}px rgba(139, 92, 246, 0.45))`;
+        particle.style.animation = `planetWobble ${Math.random() * 8 + 12}s infinite ease-in-out`;
+    } else if (isPlanet) {
         // Randomize planet colors between theme accents and subtle celestial colors
         const colors = ['var(--accent-1)', 'var(--accent-2)', '#fde047', '#fca5a5'];
         const color = colors[Math.floor(Math.random() * colors.length)];
@@ -78,8 +99,8 @@ for (let i = 0; i < particleCount; i++) {
         particle.style.animation = `twinkle ${Math.random() * 1.5 + 1}s infinite alternate ease-in-out, drift ${Math.random() * 20 + 15}s infinite alternate ease-in-out`;
     }
 
-    // offset animations so they don't pulse together
-    particle.style.animationDelay = `-${Math.random() * 20}s, -${Math.random() * 40}s`;
+    // Offset animations so particles do not pulse together
+    particle.style.animationDelay = `-${Math.random() * 20}s`;
 
     particlesContainer.appendChild(particle);
     particles.push(particle);
